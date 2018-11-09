@@ -1,0 +1,11 @@
+{
+  "name": "project_a",
+  "version": "1.0.0",
+  "description": "Project A depends on Project B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Patino <carlospatinos@gmail.com>",
+  "license": "ISC"
+}
